@@ -164,7 +164,7 @@
                         case 0:
                             return e.prev = 0,
                             e.next = 3,
-                            a().get("".concat("https://api.antilag.host/", "/bio"));
+                            a().get("".concat("https://api.rowsvip.host/", "/bio"));
                         case 3:
                             return t = e.sent.data,
                             e.abrupt("return", t);
@@ -194,7 +194,7 @@
                         case 0:
                             return e.prev = 0,
                             e.next = 3,
-                            a().get("".concat("https://api.antilag.host/", "/bio/stats"));
+                            a().get("".concat("https://api.rowsvip.host/", "/bio/stats"));
                         case 3:
                             return t = e.sent.data,
                             e.abrupt("return", t);
@@ -225,7 +225,7 @@
                             return e.prev = 0,
                             e.next = 3,
                             a()({
-                                url: "".concat("https://api.antilag.host/", "/bio/view/").concat(t),
+                                url: "".concat("https://api.rowsvip.host/", "/bio/view/").concat(t),
                                 method: "PUT",
                                 withCredentials: !0
                             });
