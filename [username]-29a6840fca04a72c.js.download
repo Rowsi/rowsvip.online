@@ -1864,7 +1864,7 @@
                         null === (t = null === (e = H.current) || void 0 === e ? void 0 : e.audio.current) || void 0 === t || t.play(),
                         null === (s = D.current) || void 0 === s || s.play()
                     },
-                    children: "Click anywhere to see the bio ff antilag"
+                    children: "CLICK NIGGA"
                 }), (0,
                 c.jsxs)("div", {
                     className: "".concat(t.autoplayfix ? "".concat(p ? "animate-fadeIn" : "hidden") : ""),
